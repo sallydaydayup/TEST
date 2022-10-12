@@ -1,0 +1,9 @@
+project.config.json
+*.zip
+*.config
+*.sln
+Debug/
+Debug/test.exe
+Debug/*.zip
+!/mtk/one.txt
+!/mtk
